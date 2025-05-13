@@ -21,4 +21,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shre5tha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+![snake gif](https://github.com/shre5tha/shre5tha/blob/output/github-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
